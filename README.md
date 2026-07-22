@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Abdullah%20Amin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -24,7 +24,7 @@ Developing scalable backend systems, API-powered applications, and data-driven s
 </div>
 
 
----
+
 
 # 👨‍💻 About Me
 
@@ -33,7 +33,7 @@ Python Backend Developer focused on building scalable backend systems, REST APIs
 Experienced in backend architecture, API integrations, relational databases, data processing, and developing intelligent systems using modern Python technologies.
 
 
----
+
 
 # 📌 Find Me Here
 
@@ -52,7 +52,7 @@ Experienced in backend architecture, API integrations, relational databases, dat
 </div>
 
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@ Experienced in backend architecture, API integrations, relational databases, dat
 </div>
 
 
----
+
 
 ## ⚡ Backend & APIs
 
@@ -87,7 +87,7 @@ Experienced in backend architecture, API integrations, relational databases, dat
 - Backend Architecture
 
 
----
+
 
 ## 🗄️ Databases
 
@@ -107,7 +107,7 @@ Experienced in backend architecture, API integrations, relational databases, dat
 - Query Optimization
 
 
----
+
 
 ## 🤖 Automation & Data
 
@@ -126,7 +126,7 @@ Experienced in backend architecture, API integrations, relational databases, dat
 - Data Processing
 
 
----
+
 
 ## ⚙️ Technologies & Tools
 
@@ -142,11 +142,11 @@ Experienced in backend architecture, API integrations, relational databases, dat
 - VS Code
 
 
----
+
 
 <div align="center">
 
 ### 🚀 Building reliable systems with Python
 
 </div>
-```
+
