@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2DD4BF&height=210&section=header&text=Abdullah%20Amin&fontSize=52&fontColor=F1F5F9&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=18&descColor=94A3B8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2DD4BF&height=210&section=header&text=Abdullah%20Amin&fontSize=52&fontColor=F1F5F9&fontAlignY=38&desc=🐍%20Python%20Backend%20Developer%20•%20FastAPI%20•%20Automation&descAlignY=58&descSize=16&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Building+API-Driven+Backend+Systems;FastAPI+%26+REST+API+Development;Python+Automation;Backend+Integrations;Database-Driven+Applications;ETL+Pipelines;Data+Processing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+Backend+Developer;%E2%9A%99%EF%B8%8F+Building+API-Driven+Backend+Systems;%F0%9F%9A%80+FastAPI+%26+REST+API+Development;%F0%9F%A4%96+Python+Automation+with+Selenium+%26+Playwright;%F0%9F%94%84+ETL+Pipelines+%26+Data+Processing;%F0%9F%97%84%EF%B8%8F+MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+SQLite;%F0%9F%92%A1+Scalable+Backend+%26+Database+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## About Me
 
-Python Backend Developer specializing in scalable backend architecture, RESTful API development, automation solutions, and database-driven systems.
+Python Backend Developer specializing in API-driven systems, backend architecture, automation solutions, database integrations, and data-driven applications.
 
-- Designing and building backend services with **FastAPI**
-- Developing and integrating **REST APIs** across data sources and third-party services
-- Working across **MySQL**, **PostgreSQL**, and **SQLite** for relational data storage
-- Automating workflows and data collection with **Selenium** and **Playwright**
-- Building **ETL pipelines** for structured data processing
+- 🐍 &nbsp;Backend development with **Python**
+- 🚀 &nbsp;Building and integrating **REST APIs** with **FastAPI**
+- 🗄️ &nbsp;Designing schemas and queries across **MySQL**, **PostgreSQL**, **SQLite**
+- 🤖 &nbsp;Automating workflows with **Selenium** and **Playwright**
+- 🔄 &nbsp;Building **ETL pipelines** for structured data processing
 
 <br/>
 
@@ -37,7 +37,7 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -45,7 +45,7 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <br/>
 
-**Backend & APIs**
+**⚡ Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=white)
@@ -54,7 +54,7 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <br/>
 
-**Databases**
+**🗄️ Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -62,7 +62,7 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <br/>
 
-**Automation & Data**
+**🤖 Automation & Data**
 
 ![Selenium](https://img.shields.io/badge/Selenium-0F172A?style=for-the-badge&logo=selenium&logoColor=43B02A)
 ![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33)
@@ -70,7 +70,7 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <br/>
 
-**Tools & Technologies**
+**⚙️ Tools & Technologies**
 
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -93,6 +93,6 @@ Python Backend Developer specializing in scalable backend architecture, RESTful 
 
 <div align="center">
 
-Engineering Scalable Backend Solutions.
+Clean Code. Reliable APIs. Scalable Systems.
 
 </div>
